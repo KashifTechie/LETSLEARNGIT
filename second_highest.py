@@ -8,4 +8,4 @@ for i in li:
         first = i
     elif i>second and i != first:
         second = i
-print("second highest number is", second)
+print(second)
